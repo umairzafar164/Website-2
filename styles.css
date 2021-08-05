@@ -1,0 +1,15 @@
+*{
+    margin:0px;
+    padding: 0px;
+}
+.ml{
+    width: 30px;
+    height: 33px;
+}
+.name{
+    margin-left: 0px;
+    font-size: 15px;
+}
+.img{
+    margin-left: 22px;
+}
